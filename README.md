@@ -1,1 +1,1 @@
-![Testes da Calculadora](https://github.com/<SEU_USUARIO>/<SEU_REPOSITORIO>/actions/workflows/python-app.yml/badge.svg)
+![Testes da Calculadora](https://github.com/GabrielCFranco/ADICalc//actions/workflows/main.yml/badge.svg)
